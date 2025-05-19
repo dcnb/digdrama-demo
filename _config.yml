@@ -16,7 +16,7 @@
 #       -- e.g., /assets/data/play_example.csv
 #    - or a link to a CSV file stored somewhere accessible on the internet 
 #       -- e.g., https://example.com/play_example.csv)
-play: 
+play: https://docs.google.com/spreadsheets/d/e/2PACX-1vRKAGj0x-q0NtqGr0Q0-bojYzTfTroxXuv9aeqPq0NPCS1H3ZwKNxkPQs0VjBZIm-IYsKKj1Pk6mM2R/pub?output=csv
 # dev mode turns on ability to change metadata; when you're finished with this project, set this to false
 development-mode: true
 
